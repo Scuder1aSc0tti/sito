@@ -1,0 +1,16 @@
+@font-face {
+   font-family: titolo;
+   src: url(PORKYS_.TTF);
+}
+* {
+   cursor: url(https://cur.cursors-4u.net/games/gam-12/gam1113.cur), auto !important;
+}
+@font-face {
+   font-family: font;
+   src: url(smb2.ttf);
+}
+
+.title {
+   font-family: titolo;
+   font-size: xx-large;
+}
